@@ -16,21 +16,17 @@ import './App.css'
     setTodos(updatedItems);
    
   }
-
   const enterEditMode = (id,text) => {
     setEditMode(true);
     setEditId(id);
     setEditValue(text);
-
   }
-
-  const addTodo = () => {
+const addTodo = () => {
     if(inputValue.trim()!== ''){
       const newTodo = {
         id:new Date().getTime(),
         text:inputValue,
-
-      }
+  }
       setTodos([...todos,newTodo]);
       setInputValue('');
          
