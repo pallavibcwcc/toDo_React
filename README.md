@@ -1,6 +1,7 @@
-<img width="1792" alt="Screenshot 2024-09-26 at 1 43 22 PM" src="https://github.com/user-attachments/assets/29c5f50c-2a21-4c3c-b7c4-e6b2baf1819f">
-<img width="1792" alt="Screenshot 2024-09-26 at 1 43 35 PM" src="https://github.com/user-attachments/assets/51332037-fb3f-4b8e-9deb-78a8ff989b88">
-<img width="1792" alt="Screenshot 2024-09-26 at 1 44 21 PM" src="https://github.com/user-attachments/assets/00f68727-dad3-4165-866c-2c10c8884f3c">
+<img width="1725" alt="Screenshot 2024-09-26 at 1 54 24 PM" src="https://github.com/user-attachments/assets/872c6b03-bbdd-4349-af60-86bcaa7a11f5">
+<img width="1711" alt="Screenshot 2024-09-26 at 1 55 12 PM" src="https://github.com/user-attachments/assets/4dc10f55-f601-44cd-8905-99590ad26abb">
+
+<img width="1758" alt="Screenshot 2024-09-26 at 1 55 45 PM" src="https://github.com/user-attachments/assets/0dda5a81-deff-4dd8-a091-496a8fdab281">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
