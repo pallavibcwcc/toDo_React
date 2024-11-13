@@ -77,7 +77,7 @@ const addTodo = () => {
         {todo.text}
         <div>
         <button  onClick={() => deleteItem(todo.id)} > Delete </button>
-                  <button>onClick={() => enterEditMode(todo.id,todo.text)} Edit</button>
+                  <button onClick={() => enterEditMode(todo.id,todo.text)} >Edit</button>
                   </div>
         </li>
       ))}
